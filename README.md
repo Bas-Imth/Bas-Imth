@@ -13,4 +13,3 @@ Something short about me:
 
 - **Best way to contact me:**
   - **Discord:** Sho^3#3334
-  - **Matrix/Element:** @jupyter:matrix.org
