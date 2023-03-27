@@ -4,8 +4,8 @@
 <table><tr><td valign="top" width="50%">
 <div align="center">Me?</div> 
 My name is Bas "Sho" Imth  
-_Writing is not my profession.
-Coding, however._ 
+
+_Writing is not my profession. Coding, however._ 
 
 I'm a uni-dropout gone rogue, having entered the business world and started turning things upside down.    
 Within three weeks, I was able to become the architect of a business case.    
