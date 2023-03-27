@@ -12,25 +12,10 @@ Coding, however._
 ## Something short  
 <table><tr><td valign="top" width="50%">
 
-- -I'm the Tyrant of a community called [Constructive Tyranny](https://tyrant.gg)  
-  
-
-- I'm a ~~student~~ turns out I am a working man now.  
-  
-
+- The ex-Tyrant of a community called [Constructive Tyranny](https://tyrant.gg)  
 - Probably a Unix fanatic  
-  
 
-- Is considered being an A.I  
-  
-
-- Went from being a student to being the architect of multiple business critical environments in three weeks.  
-  
-
-  - Got asked to write a program to solve a mission critical issue for a major medical facility.  
-  
-
-##### <div align="center">--- And did so in a few days without any access to the environment. ----</div>  
+I'm a uni-dropout gone rogue, having entered the business world and started turning things upside down. Within three weeks, I was able to become the architect of a business case. I then helped a major medical facility with an issue by programming a solution for them in a short amount of time without any access to the environment. Having the ability to learn and adapt in a rapid manner, who knows what I'll be doing next?
 
 
 </td><td valign="top" width="50%">
