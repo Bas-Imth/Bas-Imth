@@ -16,7 +16,7 @@ Lastly, I am the ex-tyrant of a community called [Constructive Tyranny](https://
 </td><td valign="top" width="50%">  
 
 <div align="center">  
-<img src="https://avatars.githubusercontent.com/u/30594663?v=4" align="center" style="width: 60%" />  
+<img src="https://avatars.githubusercontent.com/u/30594663?v=4" align="center" style="width: 90%" />  
 </div>  
 </td></tr></table>  
 
