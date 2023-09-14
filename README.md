@@ -8,11 +8,8 @@ My name is Bas "Sho" Imth
 _Writing is not my profession. Coding, however._ 
 
 I'm a uni-dropout gone rogue, having entered the business world and started turning things upside down.    
-Within three weeks, I was able to become the architect of a business case.    
-I then helped a major medical facility with an issue by programming a solution for them in a short amount of time without any access to the environment.  
-Having turned from an engineer to only developer as my company can solve more problems thanks to it.   
-Most people know or have the types of managers that promise things too quickly to a customer, be it programming a solution for them, or design a solution, in a week. Worst part is, mine gets away with it thanks to me.   
-Having the ability to learn and adapt in a rapid manner, who knows what I'll be doing next?  
+Doing all sorts of things from designing new services to writing programs to automate tasks or provide a service with it to customers.
+Having the ability to learn and adapt in a rapid manner, who knows what I'll be doing?  
 
 Lastly, I am the ex-tyrant of a community called [Constructive Tyranny](https://discord.ctgamehosts.uk)  
 </td><td valign="top" width="50%">  
